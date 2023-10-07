@@ -6,7 +6,7 @@
 
 -----
 
-<strong><p align="center"> Berserker_Deobf </p></strong>
+### <p align="center"> Berserker_Deobf </p>
 <br><br>
 <strong>
 Berserker is the most powerful fully Python obfuscator for Python scripts,
