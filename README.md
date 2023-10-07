@@ -13,7 +13,8 @@ Berserker is the most powerful fully Python obfuscator for Python scripts,
 <br>developped by <a href="https://github.com/billythegoat356">billythegoat356</a> and <a href="https://github.com/CSM-BlueRed">BlueRed</a>.
 </strong>
 <br><br>
-
+</br>
+</p>
 -----
 ### <p align="center">📋 Examples 📋</p>
 
